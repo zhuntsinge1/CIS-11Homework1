@@ -28,4 +28,7 @@ with great effects and cinematography. The periods they travel to are not outlan
 is a dark vibe in the show and some really cool plot twists along the way. I was sad to hear that they canceled the show
 after th second season due to cost of production.
 
-
+While examining Gradescope, I noticed there was a request missing that was not in the INSTRUCTIONS.md. I believe this was
+done intentionally so that I have an opportunity to examine and understand how to properly use Gradescope effectively. I agree
+with what you said that it may look confusing but if you know where to find the important information it is a very useful tool.
+I promise not to forget that all future assignments may be heavily penalized for failure to commit frequently as I do my work.

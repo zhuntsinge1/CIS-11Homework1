@@ -32,3 +32,12 @@ While examining Gradescope, I noticed there was a request missing that was not i
 done intentionally so that I have an opportunity to examine and understand how to properly use Gradescope effectively. I agree
 with what you said that it may look confusing but if you know where to find the important information it is a very useful tool.
 I promise not to forget that all future assignments may be heavily penalized for failure to commit frequently as I do my work.
+
+I need more commits, so I am going to talk about the other classes I am taking this semester. Along with this class, I am taking a 
+US History class as well as CIS-7. CIS-7 and this class both seem somewhat tough. What even is discreet math?! One of the issues I 
+am facing is I took cis-5 Last fall. While it was a good enough course, it wasn't very in depth or hands on. I was able to pass it ok
+and I only struggled a little, but since I have touched C++ since then, I feel some trepidation diving into these two courses. I do think
+that with some patience and the willingness to focus then I should be able to accomplish passing both of them. I think both teachers
+offer a lot of guidance and support as well. 
+
+

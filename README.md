@@ -40,4 +40,9 @@ and I only struggled a little, but since I have touched C++ since then, I feel s
 that with some patience and the willingness to focus then I should be able to accomplish passing both of them. I think both teachers
 offer a lot of guidance and support as well. 
 
-
+My current job is working for a web hosting provider. I have been working there for about 8 years now and it has become something
+I really enjoy doing. We mostly work with the average consumer so the most popular application we support is WordPress. It is 
+the easiest tool for the average person to pick up and create a website. Most of our customers are hobbyists or small business owners, 
+but we also support other softwares like Python, Ruby, Node, etc. My employer is a big proponent of continued education and they
+are fully supportive in me returning to school and learning new things. It is a huge relief when you don't have to sacrifice your
+current job or employment to go back to school!

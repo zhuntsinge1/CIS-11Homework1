@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 1 - Git Practice
 
 My Submission for CIS-11, Homework 1 - Git Practice
 

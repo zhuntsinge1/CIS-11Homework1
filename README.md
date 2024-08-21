@@ -51,3 +51,9 @@ Last month, I took a trip to Monterey Bay, California. It was a really nice geta
 it was only about 80 degrees there. We went to the Monterey Bay Aquarium where we saw cool jellyfish, sea otters, sting rays, sharks, and crazy looking
 fish. One of my favorite things about the town was the availability of cheap and fresh seafood. It seemed like every corner had something to offer
 and the beaches were really nice. It wasn't too crowder or packed either. I definitely want to go back when I get an opportunity. 
+
+I think this might be my last paragraph and therefore, my last commit! Next month, I have tickets to go to a Raiders game in Las Vegas. I've never
+been to a football game before, but I am a fan of the Raiders and I am excited to get a chance to see them play. I haven't been to Las Vegas in about 7
+years so I'm curious to see if it has changed at all since the last time I went. It's towards the end of September, so I expect it to be kind of hot
+which may suck but luckily, everyone has AC. The game is on a Sunday so I plan on taking my laptop with me on Saturday to get some homework done. There
+is a really cool bar in the Cosmopolitan called the Chandelier which has a cocktail that makes your mouth go numb, it's interesting. 

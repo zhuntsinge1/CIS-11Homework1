@@ -22,4 +22,10 @@ excellent, and perfect paragraphs while pushing git commits along the way. Unfor
 my Homework1 folder and lost the content :(. This was a huge blow as I had spent nearly an hour creating these paragraphs.
 Lesson learned (again), always double check what you are removing before you remove it!
 
+One of the shows I recently got into is on Amazon Prime called Outer Range. It's a science Fiction story about a group of 
+ranchers in  Wyoming that find a time travelling hole in the ground. It sounds silly, but it is a really fun show 
+with great effects and cinematography. The periods they travel to are not outlandish and the scenery is excellent. There
+is a dark vibe in the show and some really cool plot twists along the way. I was sad to hear that they canceled the show
+after th second season due to cost of production.
+
 

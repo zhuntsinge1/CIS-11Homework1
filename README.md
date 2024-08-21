@@ -46,3 +46,8 @@ the easiest tool for the average person to pick up and create a website. Most of
 but we also support other softwares like Python, Ruby, Node, etc. My employer is a big proponent of continued education and they
 are fully supportive in me returning to school and learning new things. It is a huge relief when you don't have to sacrifice your
 current job or employment to go back to school!
+
+Last month, I took a trip to Monterey Bay, California. It was a really nice getaway and the weather was perfect! While it was 100 degrees down here
+it was only about 80 degrees there. We went to the Monterey Bay Aquarium where we saw cool jellyfish, sea otters, sting rays, sharks, and crazy looking
+fish. One of my favorite things about the town was the availability of cheap and fresh seafood. It seemed like every corner had something to offer
+and the beaches were really nice. It wasn't too crowder or packed either. I definitely want to go back when I get an opportunity. 
